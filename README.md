@@ -1,2 +1,7 @@
-# COMP6738049-Web-Programming
-Delvina Wongsono - 2440034050
+# COMP6738049-Web Programming
+## Assignment 2
+- Nama : Delvina Wongsono
+- NIM  : 2440034050
+- Class: LA06
+
+Halo, Pak. Di sini contributors terdapat 2 akun, yaitu dlvnaa dan dlvna. Kedua akun tersebut merupakan akun saya, jadi saat ingin melakukan connect laravel ke GitHub memakai akun @gmail.com, sedangkan repository GitHub saya buat memakai akun dengan email @binus.ac.id. Jadi, mohon maaf apabila terdapat 2 contributors pada Assignment 2 ini. Terima kasih.
